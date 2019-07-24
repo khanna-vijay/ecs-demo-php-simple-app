@@ -17,7 +17,7 @@
             <div class="hero-unit">
                 <h1>Simple PHP App</h1>
                 <h2>Congratulations</h2>
-                <p>Hello World...  Welcome to Immersion Day..Hello World. Ver3. 19 July</p>
+                <p>Hello World...  Welcome to Immersion Day..Hello World. Ver 4. 24 July</p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
                 <?php
                         $myfile = fopen("/var/www/my-vol/date", "r") or die("");
