@@ -15,7 +15,7 @@
     <body>
         <div class="container">
             <div class="hero-unit">
-                <h1>Simple PHP App</h1>
+                <h1>Simple PHP App. v7</h1>
                 <h2>Congratulations</h2>
                 <p>Hello World. Ver draft  </p>
                 <p>The container is running PHP version <?php echo phpversion(); ?>.</p>
